@@ -1,1 +1,1 @@
-# minecraft-rl-from-demonstration
+# minecraft-ddpgfd-gail
