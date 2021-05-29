@@ -1,6 +1,6 @@
 # minecraft-ddpgfD-gail
 
-*STATUS :* **[`UNCOMING`]()**
+*STATUS :* **[`UPCOMING`]()**
 
 
 
