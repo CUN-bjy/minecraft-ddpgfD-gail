@@ -1,6 +1,8 @@
 # minecraft-ddpgfD-gail
 
-*STATUS :* **[`UPCOMING`](https://github.com/CUN-bjy/minecraft-ddpgfD-gail/projects/1)**
+*STATUS :* **[`HOLD`](https://github.com/CUN-bjy/minecraft-ddpgfD-gail/projects/1)**
+
+> This project will be archived because environment and concept is not compatible well..
 
 
 
